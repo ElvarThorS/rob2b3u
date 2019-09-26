@@ -41,6 +41,6 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
 
 ![Burðarlega fyrir arma](./img/component.PNG)
 
-![Burðarlega fyrir arma](./img/girar.PNG)
+![Burðarlega fyrir arma](./img/gírar.PNG)
 
 
