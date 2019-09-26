@@ -1,9 +1,7 @@
 ## Vélbúnaður
 Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri að þið nýttuð ykkur töfluna hér fyrir neðan:
 
-![Mynd og litagreinir](./img/visionsensor.jpg)
 
-![Burðarlega fyrir arma](./img/275-1810-turntable-bearing-together.jpg)
 
   | Hlutur | Fjöldi | Raftengt | Lýsing |
   | --- | --- | --- | --- |
