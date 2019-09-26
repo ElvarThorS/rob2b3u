@@ -35,3 +35,7 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
   | Rafmagns snúra  | 1 | já | Tengja batterí við "Robot Brain" |
   | Skrúfur og boltar  | Eins mikið og þarf | nei | festir hluti saman |
   | zip tie  | eins mikið og þarf | nei | MIKILVÆGT!!! Heldur snúrunum og vélmenninu fallegu |
+  
+  ![Mynd og litagreinir](./img/visionsensor.jpg)
+
+![Burðarlega fyrir arma](./img/275-1810-turntable-bearing-together.jpg)
