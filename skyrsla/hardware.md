@@ -37,3 +37,10 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
   ![Mynd og litagreinir](./img/visionsensor.jpg)
 
 ![Burðarlega fyrir arma](./img/275-1810-turntable-bearing-together.jpg)
+
+
+![Burðarlega fyrir arma](./img/component.PNG)
+
+![Burðarlega fyrir arma](./img/girar.PNG)
+
+
