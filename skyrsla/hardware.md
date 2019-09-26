@@ -5,9 +5,18 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
 
 ![Burðarlega fyrir arma](./img/275-1810-turntable-bearing-together.jpg)
 
-  | Vél | rafbúnaður | Spenna | Viðnám |
+  | Hlutur | Fjöldi | Raftengt | Lýsing |
   | --- | --- | --- | --- |
-  |   | Arduino uno |  |   | 
-  |   | MQ7 | 5V | 33ohm |
-  | Breadboard |   |   |   | 
-  |   | Vex 239 motor | 7,2V |   |
+  | Mótor  | 5 | Já | Knýr hreyfingar | 
+  | 10cm dekk  | 2 | nei | Venjulegt dekk |
+  | 10cm omni dekk  | 2 | nei | Dekk sem getur hreyfst í allar áttir | 
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  |   |  |  |  |
+  
