@@ -15,4 +15,4 @@ Lýsing Vélmennis
    "Sentry Mode" er þegar vélmennið þarf ekki stýringu frá fjarstýringu heldur situr vélmennið kyrrt, horfir í kringum sig og sleppir teygjum á allt sem hefur t.d. rauðann lit(með litaskannaranum á arminum).
 
 
-![Sauðakóði](./img/"Untitled Diagram.png")
+![Sauðakóði](./img/Untitled+Diagram.png)
