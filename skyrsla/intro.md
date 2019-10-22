@@ -13,3 +13,6 @@ Lýsing Vélmennis
    "Manual" er stillingin þar sem hægt er að stýra vélmenninu með þráðlausari fjarstýringu. Þar getur vélmennið keyrt um, hreyft arminn og skotið teygjum.
    
    "Sentry Mode" er þegar vélmennið þarf ekki stýringu frá fjarstýringu heldur situr vélmennið kyrrt, horfir í kringum sig og sleppir teygjum á allt sem hefur t.d. rauðann lit(með litaskannaranum á arminum).
+
+
+![Mynd og litagreinir](./img/verkefni1.png)
