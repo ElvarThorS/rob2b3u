@@ -1,26 +1,29 @@
-Vika 1 19-23. ágúst.
+Vika 1. 19-23. ágúst.
 Kynning áfanga kennsluáætlun
 
-Vika 2 26-30. ágúst.
+Vika 2. 26-30. ágúst.
 Finna hugmyndir um vélmenni
 
-Vika 3 2-6. sept.
+Vika 3. 2-6. sept.
 Byrja að hanna teygjubyssu vélmennið
 
-Vika 4 9-13. sept.
+Vika 4. 9-13. sept.
 Byrja að byggja teygjubyssuna
 
-Vika 5 16-20. sept.
+Vika 5. 16-20. sept.
 Byggja arminn sem tengist grunnvélmenninu
 
-Vika 5 23-27. sept.
+Vika 6. 23-27. sept.
 Festa saman allt og byrja að tengja snúrur
 
-Vika 5 30. sept - 4. okt.
+Vika 7. 30. sept - 4. okt.
 Fínpússa útlitið á vélmenninu t.d. með því að festa snúrur með zip-tie. Innihaldslýsing var einnig gerð
 
-Vika 6 7 - 11. okt.
+Vika 8. 7 - 11. okt.
 Byrja að kóða vélmennið og náðum að stýra honum með fjarstýringu.
 
-Vika 7 14-18. okt.
-Héldum áfram að kóða og gerðum tvö mode fyrir vélmennið, turret og controller 
+Vika 9. 14-18. okt.
+Héldum áfram að kóða og gerðum tvö mode fyrir vélmennið, sentry og controller
+
+Vika 10. 21-25. okt.
+Kláruðum intro inná github og héldum síðan áfram að kóða vélmennið.
