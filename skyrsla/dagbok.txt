@@ -27,3 +27,11 @@ Héldum áfram að kóða og gerðum tvö mode fyrir vélmennið, sentry og cont
 
 Vika 10. 21-25. okt.
 Kláruðum intro inná github og héldum síðan áfram að kóða vélmennið.
+
+Vika 11. 28 okt. - 1 nóv.
+Kóðuðum inn combat mode sem leyfir þér að miða með teygjubyssunni
+
+Vika 12. 4-8. nóv.
+Frí
+
+Vika 13. 11-15. nóv.
