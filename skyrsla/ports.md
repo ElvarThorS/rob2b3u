@@ -1,4 +1,5 @@
 ### Ports
+Tafla yfir allar tengingar við VexBrain
 
 | Hlutur | Port |
 | --- | --- |
