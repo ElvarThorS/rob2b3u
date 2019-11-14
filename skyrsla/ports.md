@@ -1,7 +1,7 @@
 ##Ports
 
 | Hlutur | Port |
-| --- | --- | --- | --- |
+| --- | --- |
 |Sonar input | A |
 |Sonar output | B |
 |LineSensorRight | (D) |
