@@ -35,3 +35,12 @@ Vika 12. 4-8. nóv.
 Frí
 
 Vika 13. 11-15. nóv.
+Kóðuðum inn klasa sem leyfðu okkur að skjóta og hlaða teygjubyssunni.
+
+Vika 14. 18-22. nóv.
+Byrjuðum að læra á vision sensor og skoðuðum tutorial við það hvernig á að nýta hann.
+
+Vika 15. 25-29. nóv.
+Náðum að láta teygjubyssu arminn elta rauða hluti sem hann sér með vision sensor og þegar hann er búinn að miða, skýtur hann teygjum í hann. Ef hann sér ekki neinn rauðann hlut, snýr hann arminum fram og tilbaka í hringi þangað til að hann finnur skotmark.
+
+Vika 16. 2-6. des.
