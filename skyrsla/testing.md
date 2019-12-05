@@ -12,4 +12,4 @@ Skjóta
 Til þess að skjóta teygjubyssuni þurfum við að snúa gír sem heldur teygjunum en við megum ekki snúa honum of mikið annars sleppir hann öllum teygjunum á sama tíma. Það tók nokkrar tilraunir en að lokum fundum við rétta tíman og gráðuna sem mótorinn á að snúa til þess að sleppa einni teygju í einu.
 
 Sentry
-Þegar vémennið er að leita af skotmarkinu snýr það arminum(með myndavélinni), skiptir um átt og heldur áfram að snúa þar til hann sér skotmarkið.
+Þegar vélmennið er að leita af skotmarkinu snýr það arminum(með myndavélinni) í hringi (skiptir um átt þegar hann fer heilan hring), þar til hann finnur skotmarkið. Vandarmálið sem við lentum í var að vélmennið vildi ekki leita af litnum á meðan hann var að snúast. Eftir nokkar tilraunir komumst við að lausnini. Láta vélmennið snúast bara í örfáar gráður, checka hvort hann sjái skotmarkið og ef hann sér það ekki þá heldur hann áfram að snúast.
